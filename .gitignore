@@ -1,0 +1,88 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+.env/
+.env.* 
+*.venv/
+
+# ========================
+# IDEs / Editors
+# ========================
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# ========================
+# OS Files
+# ========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ========================
+# Logs / Runtime
+# ========================
+*.log
+*.sqlite3
+*.db
+*.sqlite
+
+# Uvicorn / FastAPI
+*.pid
+
+# ========================
+# Test / Coverage
+# ========================
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ========================
+# Distribution / Packaging
+# ========================
+build/
+dist/
+*.egg-info/
+.eggs/
+*.whl
+
+# ========================
+# Misc / Secrets
+# ========================
+.env
+.env.local
+.env.production
+.env.test
+*.pem
+*.key
+*.crt
