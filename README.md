@@ -33,7 +33,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mobrep.git
+git clone https://github.com/AmoahDevLabs/mobrep.git
 cd mobrep
 
 python -m venv venv
